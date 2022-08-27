@@ -1959,7 +1959,7 @@ div.vis-color-picker input.vis-range {
     width: 25px;
     height: 25px;
     margin: 2px;
-    background: gray url(../img/researchIcons.png) no-repeat;
+    background: gray url(./img/researchIcons.png) no-repeat;
 }
 
 .researchBox .researchItem .description {
@@ -2247,7 +2247,7 @@ div.vis-color-picker input.vis-range {
     margin: 2px;
     padding-right: 2px;
     padding-top: 13px;
-    background: gray url(../img/upgradeActionIcons.png) no-repeat;
+    background: gray url(./img/upgradeActionIcons.png) no-repeat;
     color: white;
     font-weight: bold;
     font-size: 10px;
@@ -2287,7 +2287,7 @@ div.vis-color-picker input.vis-range {
     margin: 2px;
     text-align: center;
     padding-top: 2px;
-    background: gray url(../img/upgradeActionIcons.png) no-repeat;
+    background: gray url(./img/upgradeActionIcons.png) no-repeat;
     color: orange;
     font-weight: bold;
 }
